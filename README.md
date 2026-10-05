@@ -5,9 +5,8 @@
 <br/>
 
 <a href="https://github.com/IkramDnDev"><img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=3b2a73" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117&color=3b2a73" alt="LinkedIn"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=0d1117&color=3b2a73" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=IkramDnDev&style=for-the-badge&color=7b2ff7&label=VIEWS" alt="views"/>
+<a href="https://www.linkedin.com/in/ikram-dahhan-a7240a2b3/"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117&color=3b2a73" alt="LinkedIn"/></a>
+<a href="mailto:your.ikram.dahhan7@google.com"><img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=0d1117&color=3b2a73" alt="Email"/></a>
 
 </div>
 
